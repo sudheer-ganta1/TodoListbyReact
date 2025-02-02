@@ -1,2 +1,1 @@
-# TodoListbyReact
-Created with CodeSandbox
+a React application that allows users to add and delete tasks. The app uses useState for state management and includes components for input handling and task display. You can enhance it with styling, validation, and persistence using local storage
